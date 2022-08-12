@@ -1,0 +1,10 @@
+h1{
+    color: lightgreen;
+}
+li{
+    color: crimson;
+}
+
+.fruits-container li{
+    color: black;
+}
